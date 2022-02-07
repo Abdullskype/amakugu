@@ -8,22 +8,22 @@ you can apply to amaku group university for free using this website,
 
 Amaku Group University is one of the biggest university in the world
 
-```Amaku
-Education is the key to success
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 For more info visit [info.amaku.com](https://info.amaku.com).
