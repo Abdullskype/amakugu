@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Amaku Group University
 
-You can use the [editor on GitHub](https://github.com/Abdullskype/amakugu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this [website to apply to amaku grou university](https://github.com/Abdullskype/amakugu/edit/gh-pages/index.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+you can apply to amaku group university for free using this website,
 
-### Markdown
+### AMAKU
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Amaku Group University is one of the biggest university in the world
 
-```markdown
-Syntax highlighted code block
+```Amaku
+Education is the key to success
 
 # Header 1
 ## Header 2
@@ -26,12 +26,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more info visit [info.amaku.com](https://info.amaku.com).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Abdullskype/amakugu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### A Level
+Amaku Group University offers the most comprehensive suite of A level options for that will find in any academic institution in the nigeria.
+
+
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with our website? Check out our [documentation](https://docs.amaku.com/) or [contact support](https://support.amaku.com/contact) and we’ll help you sort it out.
